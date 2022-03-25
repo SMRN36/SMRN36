@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/SMRN36/My_Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://simran-bhandari.netlify.app)
 
 - 💬 Ask me about **Java, Python, Data Science, ML**
 
