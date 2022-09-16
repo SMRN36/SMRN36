@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Simran Bhandari</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast</h3><br><br>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/ca795c8c9c9ae26892ca85ad8eaf99b25b7173126ab7b7b3a5d44c5ad34d5675/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966">
+<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/ca795c8c9c9ae26892ca85ad8eaf99b25b7173126ab7b7b3a5d44c5ad34d5675/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966">
 <br>
 
 🔭 I’m Currently Working on becoming **BETTER VERSION OF MYSELF**.<br><br>
